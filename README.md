@@ -1,0 +1,5 @@
+- 👋 Hi, I’m "Himanshu Pathak"
+- 👀 I’m interested in "Software Testing"
+- 🌱 I’m currently learning "Advanced Automation" and "Devops"
+- 💞️ I’m looking to collaborate on "Automation Testing" projects
+- 📫 How to reach me - himanshupathak.qa@gmail.com
