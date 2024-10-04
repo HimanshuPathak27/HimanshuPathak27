@@ -1,7 +1,7 @@
 - 👋 Hi, I’m "Himanshu Pathak"
 - 👀 I’m interested in "Software Quality Engineering"
 - 👩‍💼 I'm currently an Automation Testing professional
-- 🎯Preferred Domain - Salesforce-CRM, Telecom, E-Commerce
-- 🌱 I’m currently learning "Devops"
-- 💞️ I’m looking to collaborate on "Automation Testing" projects
+- 🎯 Preferred Domain - Salesforce-CRM, Telecom, E-Commerce
+- 🌱 I’m currently learning "DevOps"
+- 👨‍🏫 I’m looking to collaborate on "Automation Testing" projects
 - 📫 How to reach me - himanshupathak.qa@gmail.com
